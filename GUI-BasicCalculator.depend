@@ -1,0 +1,9 @@
+# depslib dependency file v1.0
+1622486175 source:c:\users\user\desktop\gui-basiccalculator\main.cpp
+	<windows.h>
+	<stdlib.h>
+	<iostream>
+	<stdio.h>
+	<string>
+	<cmath>
+
